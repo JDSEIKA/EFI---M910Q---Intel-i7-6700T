@@ -1,4 +1,4 @@
-# EFI---M910Q---Intel-i7-6700T
+# EFI - M910Q - Intel-i7-6700T
 
 EFI PRECONFIGURADO
 OPENCORE 0.9.1
@@ -17,4 +17,10 @@ Audio - 	Realtek ALC294
 Intel - 	i7 6700T
 
 Es posible que este mismo archivo funcione en esta misma maquina con procesadores de la serie intel skylake i3, i5.
+
+Luego de Instalar MACOS desactive la opcion de reposo de la PC, solamente utilice protector de pantalla. deberas apagar manualmente tu monitor si vas a estar mucho tiempo fuera.
+
+Estoy buscando una posible solucion para esto, de momento no la he encontrado.
+
+
 
