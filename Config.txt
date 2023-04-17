@@ -1,0 +1,8 @@
+Machine - Lenovo M910Q
+
+Chip - 	Q270
+GPU - 	Intel HD 530
+Red: 	Intel L219-LM
+WRED- 	AC-8265
+Audio: 	Realtek ALC294
+Intel: 	i7 6700T
